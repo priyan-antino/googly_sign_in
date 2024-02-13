@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166862264126",
+    "project_id": "googly-sigin-in",
+    "storage_bucket": "googly-sigin-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166862264126:android:4241af9f6cfe5b56433e6f",
+        "android_client_info": {
+          "package_name": "com.example.googly_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166862264126-h25uce2os8dfd182ummbhmd62iaj5gac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSMCSC4X66TBJglCIBPRZT_KYEq7xeaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166862264126-h25uce2os8dfd182ummbhmd62iaj5gac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
